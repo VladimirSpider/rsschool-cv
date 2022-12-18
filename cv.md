@@ -1,4 +1,5 @@
 ***
+![Vladimir](./photo.jpg)
 # Vladimir Burautsou
 ***
 ## Junior Frontend Developer
