@@ -3,12 +3,114 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+          content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>CV</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    My SV!
+    <div class="cv-wrapper">
+        <header class="header">
+            <section class="header-section">
+                <h1 class="section-title">Vladimir Burautsou<br>Junior Frontend Developer</h1>
+                <div class="photo-wrapper">
+                    <img class="my-photo" src="assets/images/photo-true.jpg" alt="my photo">
+                </div>
+            </section>
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                    <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                    <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main class="main">
+            <section class="summary">
+                <h2 class="main-section-title">Summary</h2>
+                <p>
+                    Hello. My name is Vladimir. I am 29 years old. I have two higher educations.
+                    Firs - Energy Engineer(Belarusian National Technical University). Second - web-designer programmer(Belarusian State University of Information Technologies).
+                    Then I took courses in python programming and HTML, CSS. I am currently working as Junior Frontend Developer.
+                </p>
+            </section>
+            <section class="contacts">
+                <h2 class="main-section-title">Contacts</h2>
+                <ul>
+                    <li>Location: Minsk, Belarus</li>
+                    <li>Phone: +375447440150</li>
+                    <li>Email: vovchikbura@mail.ru</li>
+                    <li>GitHub: <a href="https://github.com/VladimirSpider">VladimirSpider</a></li>
+                    <li>LinkedIn: <a href="https://www.linkedin.com/in/vladimir-burautsou-54560920b/">Vladimir Burautsou</a></li>
+                </ul>
+            </section>
+            <section class="skills">
+                <h2 class="main-section-title">Skills</h2>
+                <ul>
+                    <li>HTML5, CSS3</li>
+                    <li>JavaScript</li>
+                    <li>TypeScript</li>
+                    <li>React</li>
+                    <li>Python</li>
+                    <li>Adobe Photoshop</li>
+                    <li>3ds Max</li>
+                </ul>
+            </section>
+            <section class="code">
+                <h2 class="main-section-title">Code</h2>
+                <pre>
+                    <code>
+                        function divisors(integer) {
+                            let divisorsArray = [];
+                            for (let i = 2; i &lt; integer; i++) {
+                                integer % i == 0 && divisorsArray.push(i);
+                            }
+                             return divisorsArray.length == 0 ? `${integer} is prime`: divisorsArray;
+                        };
+                    </code>
+                </pre>
+            </section>
+            <section class="education">
+                <h2 class="main-section-title">Education</h2>
+                <ul>
+                    <li>Belarusian National Technical University</li>
+                    <li>Belarusian State University of Information Technologies</li>
+                </ul>
+            </section>
+            <section class="languages">
+                <h2 class="main-section-title">Languages</h2>
+                <ul>
+                    <li>Russian - Native</li>
+                    <li>English - pre-intermediate (A2+)</li>
+                </ul>
+            </section>
+            <section class="projects">
+                <h2 class="main-section-title">Projects</h2>
+                <ul>
+                    <li><a href="https://github.com/VladimirSpider/children_s_agency">Children's agency</a></li>
+                    <li><a href="https://github.com/VladimirSpider/rsschool-cv">CV</a></li>
+                </ul>
+            </section>
+        </main>
+        <footer class="footer">
+            <div class="created-at">
+                <p>Created at 2022</p>
+            </div>
+            <div class="git">
+                <a href="https://github.com/VladimirSpider">
+                    <img src="assets/icons/github.png" alt="git hub icon">
+                </a>
+            </div>
+            <div class="rs-school">
+                <a href="https://rs.school/js-stage0/">
+                    <img src="assets/icons/rs_school_js.svg" alt="rs school icon">
+                </a>
+            </div>
+        </footer>
+    </div>
 </body>
 </html>

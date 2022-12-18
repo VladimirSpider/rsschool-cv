@@ -1,5 +1,5 @@
 ***
-![Vladimir](./photo.jpg)
+![Vladimir](assets/images/photo.jpg)
 # Vladimir Burautsou
 ***
 ## Junior Frontend Developer
