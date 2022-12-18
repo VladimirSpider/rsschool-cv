@@ -10,6 +10,7 @@
 * **Email:** vovchikbura@mail.ru
 * **GitHub:** [VladimirSpider](https://github.com/VladimirSpider)
 * **LinkedIn:** [Vladimir Burautsou](https://www.linkedin.com/in/vladimir-burautsou-54560920b/)
+
 ***
 ### About myself:
 
@@ -25,6 +26,7 @@ Then I took courses in python programming and HTML, CSS. I am currently working 
 * Persistent
 * Team player
 * Leader
+
 ***
 ### Skills:
 * HTML5, CSS3
@@ -34,6 +36,7 @@ Then I took courses in python programming and HTML, CSS. I am currently working 
 * Python
 * Adobe Photoshop
 * 3ds Max
+
 ***
 ### Code Example:
 ```
@@ -49,6 +52,7 @@ function divisors(integer) {
 ### Languages:
 * Russian - native
 * English - pre-intermediate (A2+)
+
 ***
 
 
