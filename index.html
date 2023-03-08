@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -67,7 +67,7 @@
                         function divisors(integer) {
                             let divisorsArray = [];
                             for (let i = 2; i &lt; integer; i++) {
-                                integer % i == 0 && divisorsArray.push(i);
+                                integer % i == 0 &amp;&amp; divisorsArray.push(i);
                             }
                              return divisorsArray.length == 0 ? `${integer} is prime`: divisorsArray;
                         };
