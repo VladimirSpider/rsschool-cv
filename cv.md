@@ -6,11 +6,11 @@
 ## *Junior Frontend Developer*
 ***
 ## Contact information:
-* **Location:** Minsk, Belarus
-* **Phone:** +375447440150
-* **Email:** vovchikbura@mail.ru
-* **GitHub:** [VladimirSpider](https://github.com/VladimirSpider)
-* **LinkedIn:** [Vladimir Burautsou](https://www.linkedin.com/in/vladimir-burautsou-54560920b/)
+* **Location:** *Minsk, Belarus*
+* **Phone:** *+375447440150*
+* **Email:** *vovchikbura@mail.ru*
+* **GitHub:** *[VladimirSpider](https://github.com/VladimirSpider)*
+* **LinkedIn:** *[Vladimir Burautsou](https://www.linkedin.com/in/vladimir-burautsou-54560920b/)*
 
 ***
 ### About myself:
