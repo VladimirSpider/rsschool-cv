@@ -19,6 +19,7 @@ Hello. My name is Vladimir. I am 29 years old. I have two higher educations.
 Firs - Energy Engineer(Belarusian National Technical University). Second - web-designer programmer(Belarusian State University of Information Technologies).
 Then I took courses in python programming and HTML, CSS. I am currently working as Junior Frontend Developer.
 
+***
 #### My personal qualities
 
 * Responsible
