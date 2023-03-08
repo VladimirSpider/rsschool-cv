@@ -1,8 +1,9 @@
 ***
 ![Vladimir](assets/images/photo_2.jpg)
+***
 # Vladimir Burautsou
 ***
-## Junior Frontend Developer
+## *Junior Frontend Developer*
 ***
 ## Contact information:
 * **Location:** Minsk, Belarus
